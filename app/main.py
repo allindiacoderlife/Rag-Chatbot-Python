@@ -40,6 +40,9 @@ def index():
         return {"message": "Frontend not built. Run 'npm run build' in frontend/, or use the Vite dev server."}
     return FileResponse(index_file)
 
+@app.get("/health")
+def health():
+    return {"status": "ok"}
 
 @app.get("/documents")
 def documents():
