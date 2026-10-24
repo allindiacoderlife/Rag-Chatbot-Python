@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Which nation goes by the nickname land of festivals?",
+    "document": "example.pdf",
+    "expected_pages": [1]
+  },
+  {
+    "question": "In which year did the toothbrush come into existence?",
+    "document": "example.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "question": "What does eugenics mean?",
+    "document": "example.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "question": "Which satellite is the lightest ever launched?",
+    "document": "example.pdf",
+    "expected_pages": [4]
+  },
+  {
+    "question": "Which country was the first to hold a civil services examination?",
+    "document": "example.pdf",
+    "expected_pages": [5]
+  },
+  {
+    "question": "What was India's first union territory powered entirely by solar energy?",
+    "document": "example.pdf",
+    "expected_pages": [39]
+  },
+  {
+    "question": "Which former US president authored the book An American Life?",
+    "document": "example.pdf",
+    "expected_pages": [35]
+  },
+  {
+    "question": "Who became the first person from India to win the Nobel Memorial Prize in Economic Sciences?",
+    "document": "example.pdf",
+    "expected_pages": [7]
+  },
+  {
+    "question": "What is considered the biggest temple complex across the globe?",
+    "document": "example.pdf",
+    "expected_pages": [3]
+  },
+  {
+    "question": "On what date each year is International Anti-Corruption Day commemorated?",
+    "document": "example.pdf",
+    "expected_pages": [24]
+  },
+  {
+    "question": "In which nation are female citizens legally mandated to serve in the armed forces?",
+    "document": "example.pdf",
+    "expected_pages": [21]
+  },
+  {
+    "question": "Which famous cricketer earned the title King of Spin?",
+    "document": "example.pdf",
+    "expected_pages": [25]
+  },
+  {
+    "question": "By what modern name is the city formerly called Baroda known today?",
+    "document": "example.pdf",
+    "expected_pages": [31]
+  },
+  {
+    "question": "Which calendar date marks International Translation Day?",
+    "document": "example.pdf",
+    "expected_pages": [23]
+  },
+  {
+    "question": "What is the world's most expansive freshwater lake by surface area?",
+    "document": "example.pdf",
+    "expected_pages": [4]
+  },
+  {
+    "question": "What is the longest continental mountain range on Earth?",
+    "document": "example.pdf",
+    "expected_pages": [28]
+  },
+  {
+    "question": "Which country has the greatest total land area in the world?",
+    "document": "example.pdf",
+    "expected_pages": [40]
+  }
+]

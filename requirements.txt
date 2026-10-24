@@ -1,0 +1,10 @@
+google-genai
+groq
+pypdf
+numpy
+python-dotenv
+psycopg[binary]
+pgvector
+fastapi
+uvicorn[standard]
+python-multipart
